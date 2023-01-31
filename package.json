@@ -1,0 +1,26 @@
+{
+  "name": "qzando_automation",
+  "version": "1.0.0",
+  "description": "Curso de Automação QAzando",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anacarolinajustino/qazando_automation.git"
+  },
+  "keywords": [
+    "git123"
+  ],
+  "author": "Ana Carolina Justino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anacarolinajustino/qazando_automation/issues"
+  },
+  "homepage": "https://github.com/anacarolinajustino/qazando_automation#readme",
+  "dependencies": {
+    "codeceptjs": "^3.3.7",
+    "playwright": "^1.30.0"
+  }
+}
